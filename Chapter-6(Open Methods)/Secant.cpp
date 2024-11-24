@@ -9,7 +9,7 @@ void secant(double x0, double x1){
     double x ;
     int it=0;
     while(abs(x1-x0)>tolerance && maxIter--){
-        x = x1 - f(x1)*(x1-x0)/(f(x1)-f(x0));
+        x = x1 - ((f(x1)*(x1-x0)) / (f(x1)-f(x0)));
         x0 = x1;
         x1 = x;
         it++;
