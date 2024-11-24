@@ -1,5 +1,5 @@
 ## Numerical-Analysis
 <br>
-### Here C++ code for methods
+<h6> Here C++ code for methods </h6>
 <br>
-# --Created By Fahad Hasan Siam
+ --Created By <h1> Fahad Hasan Siam </h1>
